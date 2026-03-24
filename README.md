@@ -1,6 +1,7 @@
 # Projeto_Automacao_Sites_Backup
 
 Este Projeto consiste em scripts criados em bash, para automatizar processos na área de administração de um site e o backup do mesmo e da sua base de dados.
+
 ---
 
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/fcd0b296-3271-4067-a5c8-0d88b36964a6" />
