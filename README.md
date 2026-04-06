@@ -11,7 +11,15 @@ Este Projeto consiste em scripts criados em bash, para automatizar processos na 
 
 O Projeto consiste em 4 menus:
 
-* Instalação de serviços: Automação do setup inicial do ambiente.
-* Verificação e testes dos serviços: Teste para validar se os serviços estão a funcionar corretamente.
-* Serviço de backup: Diversas rotinas para a cópia de segurança de arquivos e bases de dados.
-* Segurança e manutenção: Menu para otimização do sistema e proteção do servidor.
+<table>
+
+  <tr>
+
+    * Instalação de serviços: Automação do setup inicial do ambiente.
+    * Verificação e testes dos serviços: Teste para validar se os serviços estão a funcionar corretamente.
+    * Serviço de backup: Diversas rotinas para a cópia de segurança de arquivos e bases de dados.
+    * Segurança e manutenção: Menu para otimização do sistema e proteção do servidor.
+
+  </tr>
+
+</table>
